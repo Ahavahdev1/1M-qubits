@@ -75,7 +75,7 @@ Otimização Combinatória Massiva: Resolução de problemas NP-difíceis (logí
 Machine Learning Hiperdimensional: Processamento de espaços vetoriais massivos para modelos de inteligência artificial de próxima geração.
 Simulação Molecular Quântico-Inspirada: Estudo de estruturas complexas sem restrições de ruído físico de hardware quântico atual (NISQ).
 👤 Autor
-Criado por [Seu Nome / Seu Nick]
+Criado por Bruno Loureiro Desidera Ahavahdev1
 Desenvolvedor e Pesquisador focado em Algoritmos Quântico-Inspirados, Arquiteturas de Alta Performance e Computação Hiperdimensional.
 📄 Licença
 Este projeto está sob a licença MIT.
