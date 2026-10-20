@@ -15,7 +15,7 @@ O **MEA Fractal Quantum Compressor** é um motor computacional de alta performan
 
 Na computação quântica tradicional baseada em força bruta, simular $N$ qubits exige armazenar um vetor de estado de $2^N$ amplitudes. Para $N = 1.000.000$, isso exigiria um espaço de estados de $2^{1000000}$ — um número com centenas de milhares de dígitos, tornando a simulação física clássica estritamente impossível.
 
-O **MEA** contorna essa barreira utilizando uma arquitetura **quântico-inspirada** (*Quantum-Inspired*), combinando **geometria fractal** e **cadeias de Markov (MCMC)** para comprimir o espaço de Hilbert e extrair amostras estatísticas de alta relevância de forma linear/polinomial, sem a necessidade de hardware criogênico ou supercomputadores baseados em força bruta.
+O **MEA** contorna essa barreira utilizando uma arquitetura **quântico-inspirada** (*Quantum-Inspired*), e consegue extrair amostras estatísticas de alta relevância de forma linear/polinomial, sem a necessidade de hardware criogênico ou supercomputadores baseados em força bruta.
 
 ---
 
@@ -54,7 +54,7 @@ QUBITS     | DIMENSÃO (2^N)            | TEMPO        | SHOTS/SEC      | RAM ME
 Conclusão: O sistema demonstrou estabilidade total e ausência de gargalos críticos de memória em escalas hiperdimensionais.
 🔬 Como Funciona? (Arquitetura)
 Compressão Fractal: O algoritmo mapeia o espaço de estados hiperdimensional explorando auto-similaridades e correlações estruturais, reduzindo drasticamente a entropia da informação.
-Amostragem MCMC (Markov Chain Monte Carlo): Em vez de calcular todas as probabilidades simultaneamente, o sistema utiliza caminhadas estocásticas orientadas para amostrar os estados mais prováveis do sistema (shots de forma eficiente).
+Em vez de calcular todas as probabilidades simultaneamente, o sistema utiliza caminhadas estocásticas orientadas para amostrar os estados mais prováveis do sistema (shots de forma eficiente).
 Eficiência de Recursos: Ao evitar a alocação de matrizes densas de tamanho exponencial (
 O(2N)O(2 N)), a complexidade espacial é mantida em patamares viáveis para computadores clássicos.
 🛠️ Instalação e Execução
